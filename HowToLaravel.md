@@ -12,7 +12,7 @@ Importar proyecto en visual studio code.
 * `composer update`
 * `npm install`
 (regenera archivos que no se suben por el git.ignore y seguridad)
-* `cp. \.env.example .env` (copiamos el .env para modificarlo)
+* `copy .env.example .env` (copiamos el .env para modificarlo)
 #### .ENV
 * `php artisan key:generate` y lo generado lo copiamos en copiamos en el APP_KEY 
 * cambiamos el nombre de la base de datos en DB_CONNECTION
